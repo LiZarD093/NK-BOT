@@ -86,6 +86,10 @@ Para detener al bot en termux
 > Si encuentran algun error me comentan ;)
 ```
 
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbdulBajar/NK-BOT/)
+
+
 ## Agradecido con el de arriba y a estos cracks :3
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
