@@ -1,7 +1,7 @@
 NK-BOT 24/7
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbdulBajar/NK-BOT/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LiZarD093/NK-BOT/)
 
 Dame una estrella en mi cuenta principal nwn
 </p>
